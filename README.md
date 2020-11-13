@@ -26,7 +26,7 @@ Para poder usar el script es necesario usar el parametro -u ó --url y despues p
 
 ```bash
 git clone https://github.com/m4lal0/statusWeb
-chmod +x statusWeb.sh
+cd statusWeb ; chmod +x statusWeb.sh
 ./statusWeb.sh --url www.example.com
 ```
 
