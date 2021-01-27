@@ -1,6 +1,8 @@
 # statusWeb
 
 [![Debian Supported](https://img.shields.io/badge/Debian-Supported-blue?style=flat-square&logo=debian)](#)
+[![Python3 Dev](https://img.shields.io/badge/Python3-Dev-blue?style=flat-square&logo=python)](#)
+[![Bash Dev](https://img.shields.io/badge/Bash-Dev-blue?style=flat-square&logo=gnu-bash)](#)
 [![By](https://img.shields.io/badge/By-m4lal0-green?style=flat-square&logo=github)](#)
 
 <p align="center">
@@ -12,9 +14,9 @@
 ┗━━┛━┗━┛┗━━━┛━┗━┛┗━━┛┗━━┛━━━━━┗┛┗┛━┗━━┛┗━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<br>
-2 scripts hechos en Bash y Python, que tienen la misma función, la cual es saber si una URL Web está en línea.
 </p>
+<br>
+2 scripts hechos en Bash & Python, que tienen la misma función, la cual es saber si una dirección URL Web está en línea.
 
 ## Instalación
 
